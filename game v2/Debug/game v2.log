@@ -1,0 +1,4 @@
+﻿  game v2.cpp
+c:\users\kyle\documents\visual studio 2015\projects\game v2\game v2\game v2.cpp(132): warning C4715: 'findPlayerYPosition': not all control paths return a value
+c:\users\kyle\documents\visual studio 2015\projects\game v2\game v2\game v2.cpp(155): warning C4715: 'findPlayerXPosition': not all control paths return a value
+  game v2.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\game v2\Debug\game v2.exe
